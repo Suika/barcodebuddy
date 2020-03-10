@@ -24,7 +24,7 @@
  */
 
 // It highly recommended to disallow downloads of this file
-const DATABASE_PATH = __DIR__ . '/../barcodebuddy.db';
+const DATABASE_PATH = __DIR__ . '/../.bbdb/barcodebuddy.db';
 
 
 //Enable debug output
